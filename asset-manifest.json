@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/eticket.mozio.com/static/css/main.c19d2b4b.css",
+    "main.js": "/eticket.mozio.com/static/js/main.531e1c40.js",
+    "static/js/787.3b3dcd70.chunk.js": "/eticket.mozio.com/static/js/787.3b3dcd70.chunk.js",
+    "static/media/goicon.svg": "/eticket.mozio.com/static/media/goicon.84a01ac655115279db01458305e15644.svg",
+    "index.html": "/eticket.mozio.com/index.html",
+    "static/media/barcode.svg": "/eticket.mozio.com/static/media/barcode.761f9027884b854d3449669b4d6c92c4.svg",
+    "static/media/bus.svg": "/eticket.mozio.com/static/media/bus.fd7ce7c5b8831419d754b8551baabc46.svg",
+    "static/media/tickets.svg": "/eticket.mozio.com/static/media/tickets.7d3520e7fd451115e1a48b73c2f22dc2.svg",
+    "main.c19d2b4b.css.map": "/eticket.mozio.com/static/css/main.c19d2b4b.css.map",
+    "main.531e1c40.js.map": "/eticket.mozio.com/static/js/main.531e1c40.js.map",
+    "787.3b3dcd70.chunk.js.map": "/eticket.mozio.com/static/js/787.3b3dcd70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c19d2b4b.css",
+    "static/js/main.531e1c40.js"
+  ]
+}
