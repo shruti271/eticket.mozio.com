@@ -1,0 +1,28 @@
+#validfortravel{
+    color:red;
+    /* font-size: '30px'; */
+    height: '60%';
+    align-self: center;
+    animation: marqueetext 5s alternate infinite;
+}
+
+
+@keyframes marqueetext {
+    0% {
+        /* transform: translate(0, 0); */
+        color: #777135;
+    }
+
+    25%{
+        /* background-color: #3B371C; */
+        color:#ffffff
+    }
+    65%{
+        color: #777135;
+    }
+
+    100% {
+        color: #ffffff;
+    }
+}
+
